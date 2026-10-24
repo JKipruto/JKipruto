@@ -66,7 +66,7 @@
 
 ### 🚀 Featured Projects
 
-- 🤖 ** Machine Learning** — Exploring models, experiments, and new ideas.
+- 🤖 Machine Learning — Exploring models, experiments, and new ideas.
 
 [Explore all my repositories →](https://github.com/JKipruto?tab=repositories)
 
