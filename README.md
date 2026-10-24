@@ -77,6 +77,7 @@
 - Machine learning and data science
 - Deep Learning
 - MLOps
+- ML Infra
 - Software Engineering
 - Fintech
 - AI research and experimentation
