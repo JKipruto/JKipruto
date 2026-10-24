@@ -2,7 +2,7 @@
 <h1 align="centre">Hey, I'm John Kipruto 👋</h1>
 
 <h3 align="center">
-  Software Engineering Student | Machine Learning | Artificial Intelligence
+  Software Engineering Student building towards Machine Learning and Artificial Intelligence
 </h3>
 
 <p align="center">
@@ -27,6 +27,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚡ Backend & APIs
 
