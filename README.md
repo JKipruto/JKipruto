@@ -27,6 +27,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🕸️Web Dev
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -87,8 +89,17 @@
   <i>Creativity. Art. Tech.</i>
 </p>
 
+
+---
+
+### 🚧 What I'm Currently Working On
+
+- 🌐 Building my personal developer portfolio to showcase my projects, skills, and journey in software engineering and machine learning.
+
+
 <p align="center">
   <a href="https://github.com/JKipruto">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="Follow on GitHub" />
   </a>
 </p>
+
