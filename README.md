@@ -1,5 +1,5 @@
 
-<h1 align="centre">Wie Geht, I'm John Kipruto.</h1>
+<h1 align="centre">Wie Geht, I'm John.</h1>
 
 <h3 align="center">
   Software Engineering Student building towards Machine Learning and Artificial Intelligence
