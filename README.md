@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Building , exploring , and learning by creating.
+  Building , exploring  and learning by creating.
 </p>
 
 <p align="center">
