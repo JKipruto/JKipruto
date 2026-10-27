@@ -73,7 +73,7 @@
 
 - 🤖 Machine Learning — Exploring models, experiments, and new ideas.
 
-[Explore all my repositories →](https://github.com/JKipruto?tab=repositories)
+[Explore all my repos →](https://github.com/JKipruto?tab=repositories)
 
 ---
 
