@@ -6,6 +6,7 @@
 </h3>
 
 <p align="center">
+  Data & Codes || Learning, Building & Growing || AI
   Building , exploring  and learning by creating.
 </p>
 
