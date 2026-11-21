@@ -89,7 +89,7 @@
 ---
 
 <p align="center">
-  <i>Creativity. Art. Tech.</i>
+  <i>Creativity . Art . Tech.</i>
 </p>
 
 
