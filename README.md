@@ -10,6 +10,20 @@
 </br>
   Building , exploring  and learning by creating.
 </p>
+```html
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:101B3D,100:050816&height=3" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Initializing+Neural+Networks...;Training+Machine+Learning+Models...;Exploring+Deep+Learning...;Building+the+Future+with+AI..." />
+</p>
+
+<p align="center">
+  <img width="100%" alt="Animated AI Neural Network"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050816&color=00F7FF&line=7B61FF&point=00F7FF&area=true&hide_border=true" />
+</p>
+```
 
 <p align="center">
   <a href="https://github.com/JKipruto">
