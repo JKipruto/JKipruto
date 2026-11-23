@@ -80,7 +80,7 @@
 
 <h2> 🤖 Artificial Intelligence & Deep Learning </h2>
 <p>
-  Exploring neural network architectures, deep learning concepts,
+ -Exploring neural network architectures, deep learning concepts,
   model training, and intelligent systems.
 </p>
 
@@ -100,7 +100,7 @@
 
 <h2> ⚙️ Machine Learning Engineering & Deployment</h2>
 <p>
-  Currently exploring experiment tracking, model lifecycle
+  -Currently exploring experiment tracking, model lifecycle
   management, ML deployment, and API development.
 </p>
 
