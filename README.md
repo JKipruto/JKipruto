@@ -120,7 +120,7 @@
 <p align="center">
   <img
     src="./ai-neural-robot-banner.gif"
-    width="75%"
+    width="85%"
     alt="Animated AI and Neural Network Banner"
   />
 </p>
