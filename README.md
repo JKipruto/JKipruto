@@ -1,38 +1,61 @@
 
-<h1 align="centre">Wie Geht, I'm John.</h1>
+<h1 align="center">Wie Geht, I'm John 👋</h1>
 
 <h3 align="center">
- I am Software Engineering Student building towards Machine Learning and Artificial Intelligence
+  Software Engineering Student | Aspiring Machine Learning & AI Engineer
 </h3>
 
 <p align="center">
   Data & Codes || Learning, Building & Growing || AI
-</br>
-  Building , exploring  and learning by creating.
+  <br/>
+  Building, exploring, and learning by creating.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:101B3D,100:050816&height=3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Neural+Networks;Exploring+Deep+Learning;Turning+Ideas+Into+Code" />
 </p>
+
+---
+
+## 🧠 Machine Learning & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+## 🌐 Web Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## ⚡ Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+## 🛠️ Tools & Database
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Initializing+Neural+Networks...;Training+Machine+Learning+Models...;Exploring+Deep+Learning...;Building+the+Future+with+AI..." />
+  <img src="https://streak-stats.demolab.com?user=JKipruto&theme=tokyonight&hide_border=true" width="90%" />
 </p>
 
-<p align="center">
-  <img width="100%" alt="Animated AI Neural Network"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=JKipruto&bg_color=050816&color=00F7FF&line=7B61FF&point=00F7FF&area=true&hide_border=true" />
-</p>
-```
+---
 
-<p align="center">
-  <a href="https://github.com/JKipruto">
-    <img src="https://komarev.com/ghpvc/?username=JKipruto&style=for-the-badge&color=blue" alt="Profile views" />
-  </a>
-</p>
+## 🧬 Inside the Neural Network
 
-
-<!-- ANIMATED NEURAL NETWORK -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/JKipruto/JKipruto/main/neural-network.svg"
@@ -41,74 +64,30 @@
   />
 </p>
 
-
----
-
-
-### 🧠 Machine Learning & Data Science
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### 🕸️Web Dev
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚡ Backend & APIs
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-
-
-
-### 🛠️ Tools & Database
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-
----
-
-
-
-### 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JKipruto&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <i>Learning how intelligence works, one connection at a time.</i>
 </p>
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 - 🤖 Machine Learning — Exploring models, experiments, and new ideas.
 
-[Explore all my repos →](https://github.com/JKipruto?tab=repositories)
+[Explore all my repositories →](https://github.com/JKipruto?tab=repositories)
 
 ---
 
-### 🎯 Currently Exploring
+## 🎯 Currently Exploring
 
-- Machine learning and data science
+- Machine Learning and Data Science
 - Deep Learning
+- Neural Networks
 - MLOps
-- ML Infra
+- ML Infrastructure
 - Software Engineering
 - Fintech
-- AI research and experimentation
+- AI Research and Experimentation
 - Open-source collaboration
 
 ---
@@ -117,17 +96,18 @@
   <i>Creativity . Art . Tech.</i>
 </p>
 
-
 ---
 
-### 🚧 What I'm Currently Working On
+## 🚧 What I'm Currently Working On
 
 - 🌐 Building my personal developer portfolio to showcase my projects, skills, and journey in software engineering and machine learning.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JKipruto&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/JKipruto">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
-
