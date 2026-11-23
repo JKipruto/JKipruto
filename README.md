@@ -201,8 +201,8 @@
 - Neural Networks
 - MLOps
 - ML Infrastructure
+- Quantitative Finance
 - Software Engineering
-- Fintech
 - AI Research and Experimentation
 - Open-source collaboration
 
