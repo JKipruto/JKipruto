@@ -1,8 +1,18 @@
 
 <h1 align="center">Wie Geht, I'm John 👋</h1>
 
+
+<p align="center">
+  <img
+    src="./ai-neural-robot-banner.gif"
+    width="100%"
+    alt="Animated AI and Neural Network Banner"
+  />
+</p>
+
 <h3 align="center">
-  Software Engineering Student | Aspiring Machine Learning & AI Engineer
+  Software Engineering Student |
+  Building Towards Machine Learning & Artificial Intelligence
 </h3>
 
 <p align="center">
@@ -10,6 +20,7 @@
   <br/>
   Building, exploring, and learning by creating.
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Neural+Networks;Exploring+Deep+Learning;Turning+Ideas+Into+Code" />
@@ -59,6 +70,21 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JKipruto&theme=tokyonight&hide_border=true" width="90%" />
 </p>
+
+---
+
+## 🐍 My GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/JKipruto/JKipruto/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
+</p>
+
+---
+
 
 ---
 
