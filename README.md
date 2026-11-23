@@ -20,14 +20,105 @@
 
 ---
 
+<!-- TECHNICAL SKILLS & AREAS OF EXPERTISE -->
+
+<h2> 🧠 Technical Skills & Areas of Expertise </h2>
+
+<h3>📊 Data Analysis & Exploration</h3>
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Data Visualization
+- Statistical Analysis
+
+<h3>🤖 Machine Learning</h3>
+
+- Feature Engineering
+- Feature Selection
+- Model Training & Evaluation
+- Hyperparameter Tuning
+- Cross-Validation
+- Model Performance Analysis
+
+<h3>🧬 Deep Learning & Artificial Intelligence</h3>
+
+- Neural Networks
+- Deep Learning Fundamentals
+- Model Optimization
+- Artificial Intelligence Concepts
+
+<h3>⚙️ Machine Learning Engineering</h3>
+
+- Experiment Tracking
+- Model Lifecycle Management
+- Model Deployment
+- REST API Development
+- MLflow & FastAPI (Currently Learning)
+
+---
 ## 🧠 Machine Learning & Data Science
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<!-- =============================== -->
+<!-- MACHINE LEARNING & DATA SCIENCE -->
+<!-- =============================== -->
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<h2> 🧠 Machine Learning & Data Science </h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+<!-- =============================== -->
+<!-- DEEP LEARNING & AI -->
+<!-- =============================== -->
+
+<h2> 🤖 Artificial Intelligence & Deep Learning </h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Neural_Networks-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-00A6A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+</p>
+
+<p>
+  Exploring neural network architectures, deep learning concepts,
+  model training, and intelligent systems.
+</p>
+
+<!-- =============================== -->
+<!-- ML ENGINEERING -->
+<!-- =============================== -->
+
+<h2> ⚙️ Machine Learning Engineering </h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+<p>
+  Currently exploring experiment tracking, model lifecycle
+  management, ML deployment, and API development.
+</p>
+
+<!-- =============================== -->
+<!-- DEVELOPMENT TOOLS -->
+<!-- =============================== -->
+
+<h2> 🛠️ Development Tools </h2>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+</p>
+
 
 ## 🌐 Web Development
 
@@ -50,6 +141,7 @@
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+
 
 ---
 
