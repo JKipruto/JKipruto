@@ -116,9 +116,9 @@
 
 <h2 align="center"> 🛠️ Development Tools </h2>
 
-<h1 align="left">
+<h3 align="left">
   Here are the Tools I use:
-</h1>
+</h3>
 <!-- =============================== -->
 <!-- WEB DEVELOPMENT -->
 <!-- =============================== -->
