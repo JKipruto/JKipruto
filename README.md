@@ -80,7 +80,7 @@
 
 <h2> 🤖 Artificial Intelligence & Deep Learning </h2>
 <p>
- ->Exploring neural network architectures, deep learning concepts,
+  Exploring neural network architectures, deep learning concepts,
   model training, and intelligent systems.
 </p>
 
@@ -99,10 +99,10 @@
 <!-- =============================== -->
 
 <h2> ⚙️ Machine Learning Engineering & Deployment</h2>
-
-  -Currently exploring experiment tracking, model lifecycle
+<p>
+  Currently exploring experiment tracking, model lifecycle
   management, ML deployment, and API development.
-
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
