@@ -35,9 +35,9 @@
 
 - Feature Engineering
 - Feature Selection
-- Model Training & Evaluation
-- Hyperparameter Tuning
 - Cross-Validation
+- Hyperparameter Tuning
+- Model Training & Evaluation
 - Model Performance Analysis
 
 <h3>🧬 Deep Learning & Artificial Intelligence</h3>
