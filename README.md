@@ -99,10 +99,10 @@
 <!-- =============================== -->
 
 <h2> ⚙️ Machine Learning Engineering & Deployment</h2>
-<p>
-  ->Currently exploring experiment tracking, model lifecycle
+
+  -Currently exploring experiment tracking, model lifecycle
   management, ML deployment, and API development.
-</p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
