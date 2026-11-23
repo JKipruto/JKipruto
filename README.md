@@ -26,6 +26,9 @@
 
 <h3>📊 Data Analysis & Exploration</h3>
 
+- Insight Generation
+- Data-driven decision-making
+- Problem Identification and Framing
 - Exploratory Data Analysis (EDA)
 - Data Cleaning & Preprocessing
 - Data Visualization
