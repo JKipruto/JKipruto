@@ -114,9 +114,9 @@
 <!-- DEVELOPMENT TOOLS -->
 <!-- =============================== -->
 
-<h2> 🛠️ Development Tools </h2>
+<h2 align="center"> 🛠️ Development Tools </h2>
 
-
+-Here are some of my tools I use.
 <!-- =============================== -->
 <!-- WEB DEVELOPMENT -->
 <!-- =============================== -->
