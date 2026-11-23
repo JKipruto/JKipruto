@@ -21,7 +21,7 @@
 
 <p align="center">
   <img width="100%" alt="Animated AI Neural Network"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050816&color=00F7FF&line=7B61FF&point=00F7FF&area=true&hide_border=true" />
+  src="https://github-readme-activity-graph.vercel.app/graph?username=JKipruto&bg_color=050816&color=00F7FF&line=7B61FF&point=00F7FF&area=true&hide_border=true" />
 </p>
 ```
 
