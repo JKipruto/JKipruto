@@ -1,15 +1,6 @@
 
 <h1 align="center">Wie Geht, I'm John 👋</h1>
 
-
-<p align="center">
-  <img
-    src="./ai-neural-robot-banner.gif"
-    width="100%"
-    alt="Animated AI and Neural Network Banner"
-  />
-</p>
-
 <h3 align="center">
   Software Engineering Student |
   Building Towards Machine Learning & Artificial Intelligence
@@ -128,6 +119,13 @@
 
 <p align="center">
   <i>Creativity . Art . Tech.</i>
+</p>
+<p align="center">
+  <img
+    src="./ai-neural-robot-banner.gif"
+    width="100%"
+    alt="Animated AI and Neural Network Banner"
+  />
 </p>
 
 ---
