@@ -3,9 +3,12 @@
 
 <h3 align="center">
   Software Engineering Student 
-</br>
-  Building Towards Machine Learning & Artificial Intelligence
 </h3>
+</br>
+
+<p align="center">
+  Building Towards Machine Learning & Artificial Intelligence
+</p>
 
 <p align="center">
   Data & Codes || Learning, Building & Growing || AI
