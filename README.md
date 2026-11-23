@@ -2,7 +2,7 @@
 <h1 align="center">Wie Geht, I'm John 👋</h1>
 
 <h3 align="center">
-  Software Engineering Student building Towards Machine Learning & Artificial Intelligence
+  Software Engineering Student building towards Machine Learning & Artificial Intelligence
 </h3>
 
 
@@ -79,6 +79,11 @@
 <!-- =============================== -->
 
 <h2> 🤖 Artificial Intelligence & Deep Learning </h2>
+<p>
+  Exploring neural network architectures, deep learning concepts,
+  model training, and intelligent systems.
+</p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
@@ -88,26 +93,21 @@
   <img src="https://img.shields.io/badge/Neural_Networks-7B61FF?style=for-the-badge"/>
 </p>
 
-<p>
-  Exploring neural network architectures, deep learning concepts,
-  model training, and intelligent systems.
-</p>
 
 <!-- =============================== -->
 <!-- ML ENGINEERING -->
 <!-- =============================== -->
 
 <h2> ⚙️ Machine Learning Engineering & Deployment</h2>
+<p>
+  Currently exploring experiment tracking, model lifecycle
+  management, ML deployment, and API development.
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
   </br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-<p>
-  Currently exploring experiment tracking, model lifecycle
-  management, ML deployment, and API development.
 </p>
 
 <!-- =============================== -->
