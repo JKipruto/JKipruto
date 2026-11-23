@@ -1,0 +1,132 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 380"
+     width="1000" height="380">
+
+  <defs>
+    <radialGradient id="background">
+      <stop offset="0%" stop-color="#14264b"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </radialGradient>
+
+    <linearGradient id="neon">
+      <stop offset="0%" stop-color="#00f7ff"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#00f7ff"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="380" rx="20" fill="url(#background)"/>
+
+  <!-- Neural network connections -->
+  <g stroke="url(#neon)" stroke-width="2"
+     opacity="0.65" fill="none">
+
+    <path d="M180 100 L350 65 L500 150 L650 65 L820 100"/>
+    <path d="M180 100 L350 180 L500 150 L650 180 L820 100"/>
+    <path d="M180 280 L350 180 L500 150 L650 180 L820 280"/>
+    <path d="M180 280 L350 300 L500 150 L650 300 L820 280"/>
+    <path d="M350 65 L350 300"/>
+    <path d="M650 65 L650 300"/>
+    <path d="M180 100 L350 300"/>
+    <path d="M180 280 L350 65"/>
+    <path d="M820 100 L650 300"/>
+    <path d="M820 280 L650 65"/>
+  </g>
+
+  <!-- Animated data flowing through the network -->
+  <g fill="#00f7ff" filter="url(#glow)">
+
+    <circle r="5">
+      <animateMotion dur="3s" repeatCount="indefinite"
+        path="M180 100 L350 65 L500 150 L650 65 L820 100"/>
+    </circle>
+
+    <circle r="5">
+      <animateMotion dur="4s" repeatCount="indefinite"
+        path="M180 280 L350 180 L500 150 L650 180 L820 280"/>
+    </circle>
+
+    <circle r="4">
+      <animateMotion dur="3.5s" repeatCount="indefinite"
+        path="M180 100 L350 180 L500 150 L650 300 L820 280"/>
+    </circle>
+
+    <circle r="4">
+      <animateMotion dur="4.5s" repeatCount="indefinite"
+        path="M180 280 L350 300 L500 150 L650 65 L820 100"/>
+    </circle>
+
+  </g>
+
+  <!-- Neural nodes -->
+  <g fill="#00f7ff" filter="url(#glow)">
+
+    <circle cx="180" cy="100" r="10"/>
+    <circle cx="180" cy="280" r="10"/>
+
+    <circle cx="350" cy="65" r="9"/>
+    <circle cx="350" cy="180" r="11"/>
+    <circle cx="350" cy="300" r="9"/>
+
+    <circle cx="500" cy="150" r="15"/>
+
+    <circle cx="650" cy="65" r="9"/>
+    <circle cx="650" cy="180" r="11"/>
+    <circle cx="650" cy="300" r="9"/>
+
+    <circle cx="820" cy="100" r="10"/>
+    <circle cx="820" cy="280" r="10"/>
+
+  </g>
+
+  <!-- Pulsating central neuron -->
+  <circle cx="500" cy="150" r="25"
+          fill="none" stroke="#a78bfa" stroke-width="3">
+    <animate attributeName="r"
+             values="18;35;18"
+             dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="1;0.15;1"
+             dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Background floating particles -->
+  <g fill="#00f7ff" opacity="0.5">
+    <circle cx="100" cy="55" r="2">
+      <animate attributeName="cy" values="55;35;55"
+               dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="200" r="3">
+      <animate attributeName="cy" values="200;175;200"
+               dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="270" cy="340" r="2">
+      <animate attributeName="opacity" values="0.2;1;0.2"
+               dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="730" cy="40" r="2">
+      <animate attributeName="opacity" values="1;0.2;1"
+               dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Heading -->
+  <text x="500" y="355"
+        text-anchor="middle"
+        fill="#00f7ff"
+        font-family="monospace"
+        font-size="19"
+        letter-spacing="5">
+    ARTIFICIAL INTELLIGENCE • DEEP LEARNING
+  </text>
+
+</svg>
