@@ -31,6 +31,16 @@
   </a>
 </p>
 
+```html
+<p align="center">
+  <img
+    src="./neural-network.svg"
+    width="100%"
+    alt="Animated Artificial Neural Network"
+  />
+</p>
+```
+
 ---
 
 
