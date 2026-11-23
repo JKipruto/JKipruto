@@ -42,7 +42,7 @@
 
 <h3>🧬 Deep Learning & Artificial Intelligence</h3>
 
-- Neural Networks
+- Artificial Neural Networks
 - Deep Learning Fundamentals
 - Model Optimization
 - Artificial Intelligence Concepts
