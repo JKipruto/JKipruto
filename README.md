@@ -10,7 +10,7 @@
 </br>
   Building , exploring  and learning by creating.
 </p>
-```html
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:101B3D,100:050816&height=3" />
 </p>
