@@ -1,11 +1,12 @@
 
 <h1 align="center">Wie Geht, I'm John 👋</h1>
 
-<h3 align="center",color="blue">
+<h3 align="center">
   Software Engineering Student building Towards Machine Learning & Artificial Intelligence
 </h3>
 
 
+</br>
 <p align="center">
   Data & Codes || Learning, Building & Growing || AI
   <br/>
