@@ -32,9 +32,10 @@
 </p>
 
 
+<!-- ANIMATED NEURAL NETWORK -->
 <p align="center">
   <img
-    src="./neural-network.svg"
+    src="https://raw.githubusercontent.com/JKipruto/JKipruto/main/neural-network.svg"
     width="100%"
     alt="Animated Artificial Neural Network"
   />
