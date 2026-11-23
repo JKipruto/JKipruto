@@ -2,7 +2,8 @@
 <h1 align="center">Wie Geht, I'm John 👋</h1>
 
 <h3 align="center">
-  Software Engineering Student |
+  Software Engineering Student 
+</br>
   Building Towards Machine Learning & Artificial Intelligence
 </h3>
 
