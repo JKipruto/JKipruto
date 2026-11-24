@@ -43,7 +43,7 @@
 - Model Training & Evaluation
 - Model Performance Analysis
 
-<h3>🧬 Deep Learning & Artificial Intelligence</h3>
+<h3>🧬 Deep Learning & Artificial Intelligence(ACTIVELY Learning)</h3>
 
 - Artificial Neural Networks
 - Deep Learning Fundamentals
